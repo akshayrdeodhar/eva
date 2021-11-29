@@ -1,0 +1,16 @@
+tensorflow
+ffmpeg-python
+scikit-video
+opencv-python
+matplotlib
+torch
+petastorm
+pyspark
+mock
+torchvision
+pytest-cov
+antlr4-python3-runtime==4.8
+sqlalchemy
+sqlalchemy-utils
+PyYAML==6.0
+pymysql
